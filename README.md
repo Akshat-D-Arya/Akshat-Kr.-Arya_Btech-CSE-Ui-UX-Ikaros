@@ -7,7 +7,7 @@ A 2D/2.5D Action-Adventure RPG where players journey through seven culturally-in
 - **Game Type**: 2D/2.5D Action-Adventure RPG (Single-player)
 - **Platform**: PC (with controller support)
 - **Engine**: Unity
-- Video link:[]
+- Video link:[https://drive.google.com/file/d/1GUW0LDqgVhDJMWtrSYdbNfQHYjLCPNNL/view?usp=drive_link]
 
 ## Core Gameplay
 
